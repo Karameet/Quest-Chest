@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: -1801196741, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+    - {fileID: 2056341042, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+    - {fileID: -2077245042, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+    - {fileID: 1436346144, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+    - {fileID: -1803998252, guid: 92ef0b1e0b9845e4ab58956100b1a908, type: 3}
+    - {fileID: 998973039, guid: c1756fcf9843479439c19e8bfabf4ab7, type: 3}
+    - {fileID: -1389412586, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 92ef0b1e0b9845e4ab58956100b1a908: -1803998252
+    - 5e31f5feeb2c3aa4e9bbe2eacf23c05e: -2077245042
+    - 5e31f5feeb2c3aa4e9bbe2eacf23c05e: 2056341042
+    - 5e31f5feeb2c3aa4e9bbe2eacf23c05e: -1389412586
+    - 5e31f5feeb2c3aa4e9bbe2eacf23c05e: 1436346144
+    - 5e31f5feeb2c3aa4e9bbe2eacf23c05e: -1801196741
+    - c1756fcf9843479439c19e8bfabf4ab7: 998973039
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1803998252, guid: 92ef0b1e0b9845e4ab58956100b1a908, type: 3}
+  - {fileID: -2077245042, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+  - {fileID: 2056341042, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+  - {fileID: -1389412586, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+  - {fileID: 1436346144, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+  - {fileID: -1801196741, guid: 5e31f5feeb2c3aa4e9bbe2eacf23c05e, type: 3}
+  - {fileID: 998973039, guid: c1756fcf9843479439c19e8bfabf4ab7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Back
+  - MiniBlueButton
+  - BlueButton
+  - OrangeButton
+  - MiniGreenButton
+  - GreenButton
+  - Frame_17
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0

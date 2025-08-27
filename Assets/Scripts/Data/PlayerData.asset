@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5a4d9d5a239b14ba43efe46384c343, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  coin: 2000
+  diamond: 500
+  playerItem:
+  - ID: weapon_01
+    Name: Wooden Sword
+    Type: 0
+    AtlasName: ItemIcon
+    SpriteName: weapon_wooden_sword
+  - ID: weapon_03
+    Name: Diamond Sword
+    Type: 0
+    AtlasName: ItemIcon
+    SpriteName: weapon_diamond_sword
+  - ID: consume_02
+    Name: Blue postion
+    Type: 2
+    AtlasName: ItemIcon
+    SpriteName: consume_blue_postion
